@@ -280,6 +280,6 @@ These recommendations can be used to:
 
 ---
 
-📂 [View Full Notebook with Code](./prompt_II.ipynb)  
+📂 [View Full Notebook with Code](Input/Code/prompt_II.ipynb)  
 📁 [Download Dataset](practical_application_II_starter/data/vehicles.csv)
 
