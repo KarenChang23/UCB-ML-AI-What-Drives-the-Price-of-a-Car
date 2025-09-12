@@ -283,3 +283,9 @@ These recommendations can be used to:
 📂 [View Full Notebook with Code](Input/Code/prompt_II.ipynb)  
 📁 [Download Dataset](practical_application_II_starter/data/vehicles.csv)
 
+## 🛠️ How to Run This Project
+
+1. Clone the repo
+2. Open `prompt_II.ipynb` in Jupyter Notebook or Google Colab
+3. Make sure `vehicles.csv` is in the correct folder
+4. Run all cells to reproduce the analysis
