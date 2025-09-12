@@ -75,7 +75,7 @@ These visualizations will help answer the question:
 
 We examined how the age of the car (based on model year) affects its price.
 
-![Price vs. Year](<Output/Image/Price vs. Year of Used Cars.png>)
+![Price vs. Year](<>)
 
 #### Key Takeaways:
 - As expected, **newer cars are generally more expensive**.
@@ -88,7 +88,7 @@ We examined how the age of the car (based on model year) affects its price.
 
 We examined the relationship between mileage (odometer reading) and used car prices.
 
-![Price vs. Odometer](<Output/Image/Price vs. Odometer of Used Cars.png>)
+![Price vs. Odometer](<>)
 
 #### Key Takeaways:
 - There is a **clear negative correlation**: as mileage increases, price tends to decrease.
@@ -101,7 +101,7 @@ We examined the relationship between mileage (odometer reading) and used car pri
 
 We used a boxplot to explore how reported vehicle condition affects used car price.
 
-![Price by Condition](<Output/Image/Price Distribution by Car Condition.png>)
+![Price by Condition](<>)
 
 #### Key Takeaways:
 - Cars listed as **"new"** or **"like new"** have the **highest median prices**.
@@ -114,7 +114,7 @@ We used a boxplot to explore how reported vehicle condition affects used car pri
 
 We analyzed how different transmission types affect used car prices.
 
-![Price by Transmission](<Output/Image/Price Distribution by Transmission Type.png>)
+![Price by Transmission](<>)
 
 #### Key Takeaways:
 - **Automatic transmission** cars dominate the market and show a wide price range.
@@ -127,7 +127,7 @@ We analyzed how different transmission types affect used car prices.
 
 This chart shows how drive type (e.g., front-wheel, rear-wheel, all-wheel) relates to price.
 
-![Price by Drive Type](<Output/Image/Price Distribution by Drive Type.png>)
+![Price by Drive Type](<>)
 
 #### Key Takeaways:
 - **4WD (Four-Wheel Drive)** vehicles have **higher median prices**, likely because of trucks, SUVs, and off-road capability.
@@ -140,7 +140,7 @@ This chart shows how drive type (e.g., front-wheel, rear-wheel, all-wheel) relat
 
 This boxplot shows how prices vary among the 10 most common car manufacturers in the dataset.
 
-![Price by Manufacturer](<Output/Image/Price Distribution by Top 10 Manufacturers.png>)
+![Price by Manufacturer](<>)
 
 #### Key Takeaways:
 - **Ford, Chevrolet, and Toyota** dominate the dataset and have a wide price range.
